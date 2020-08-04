@@ -24,9 +24,9 @@ $("select").on("change", function() {
       $("img").attr("src", "imagenes/bradpit.jpg");
       break;
 
-          case "5":
-            $("img").attr("src", "imagenes/image.jpg");
-            break;
+    case "5":
+      $("img").attr("src", "imagenes/image.jpg");
+      break;
     case "6":
       $("img").attr("src", "famosos-mini-justin-bieber_91fee69e_600x900.jpg");
       break;
@@ -36,22 +36,22 @@ $("select").on("change", function() {
       break;
 
 
-          case "8":
-            $("img").attr("src", "renato-6_b709bb0e.jpg");
-            break;
-                case "9":
-                  $("img").attr("src", "tini-stoessel-coronavirus-famosos-con-coronavirus-768x506.jpg");
-                  break;
+    case "8":
+      $("img").attr("src", "renato-6_b709bb0e.jpg");
+      break;
+    case "9":
+      $("img").attr("src", "tini-stoessel-coronavirus-famosos-con-coronavirus-768x506.jpg");
+      break;
 
-                  case "10":
-                    $("img").attr("src", "unnamed.jpg");
-                    break;
-                    case "11":
-                      $("img").attr("src", "tini-stoessel-coronavirus-famosos-con-coronavirus-768x506.jpg");
-                      break;
-                      case "12":
-                        $("img").attr("src", "renato-6_b709bb0e.jpg");
-                        break;
+    case "10":
+      $("img").attr("src", "unnamed.jpg");
+      break;
+    case "11":
+      $("img").attr("src", "tini-stoessel-coronavirus-famosos-con-coronavirus-768x506.jpg");
+      break;
+    case "12":
+      $("img").attr("src", "renato-6_b709bb0e.jpg");
+      break;
 
   }
 
